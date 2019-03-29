@@ -6,7 +6,7 @@
 npm install
 ```
 
-###启动
+### 启动
 ```bash
 npm run start demo
 ```
@@ -18,4 +18,5 @@ npm run build demo
 
 ### 生产模式启动
 ```bash
-npm run server:prod```
+npm run server:prod
+```
